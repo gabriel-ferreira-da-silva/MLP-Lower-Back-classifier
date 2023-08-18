@@ -7,3 +7,8 @@ https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset?resour
 
 Pra rede neural foi utilizada a biblioteca scikit-learn da linguagem python.
 
+link para colab:
+
+https://colab.research.google.com/drive/1arfHUIjcivvuHr6NUJznJHRy3pt5Ss0M#scrollTo=On8oDIz-0uAe
+
+
