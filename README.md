@@ -1,12 +1,18 @@
 # MLP Lower Back Pain Classifier 
-Este trabalho busca obter uma rede neural para classificação dores lombares em normais ou anormais baseado em sintomas e características fisiológicas utilizando o modelo de rede neural MLP. 
+This is project is a assignent from the Inteligent Systems of the computer engineering course. The goal is to train and explore a MLP network to classify lower back pain based on a data set.
 
-A base de dados foi retirada daqui:
+The work is based on analising the data set, establishing the relations and features of the atributes:
 
-https://www.kaggle.com/datasets/sammy123/lower-back-pain-symptoms-dataset?resource=download
+![](![dist.png](https://github.com/gabriel-ferreira-da-silva/MLP-Lower-Back-classifier/blob/main/images/dist.png?raw=true)
 
-Para rede neural foi utilizada a biblioteca scikit-learn da linguagem python.
 
-link para colab:
 
-https://colab.research.google.com/drive/1arfHUIjcivvuHr6NUJznJHRy3pt5Ss0M#scrollTo=On8oDIz-0uAe
+![](![pair.png](https://github.com/gabriel-ferreira-da-silva/MLP-Lower-Back-classifier/blob/main/images/pair.png?raw=true)
+
+than training a MLP with the data with stablished parameters such as activation function and optimizastion method.
+
+![](![train.png](https://github.com/gabriel-ferreira-da-silva/MLP-Lower-Back-classifier/blob/main/images/train.png?raw=true)
+
+finally, search for the best neural network by change such parameters and analising the results.
+
+![](![an.png](https://github.com/gabriel-ferreira-da-silva/MLP-Lower-Back-classifier/blob/main/images/an.png?raw=true)
