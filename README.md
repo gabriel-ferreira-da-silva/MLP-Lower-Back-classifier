@@ -1,5 +1,5 @@
 # MLP Lower Back Pain Classifier 
-This is project is a assignent from the Inteligent Systems Class of the computer engineering collage course. The goal of this project is to train and explore a MLP network to classify lower back pain based on a data set.
+This is project is a assignent from the Inteligent Systems Class of the computer engineering college course. The goal of this project is to train and explore a MLP network to classify lower back pain based on a data set.
 
 The work is based on analising the data set, establishing the relations and features of the atributes:
 
